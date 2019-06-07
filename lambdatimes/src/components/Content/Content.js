@@ -54,7 +54,7 @@ export default class Content extends Component {
   };
 
   render() {
-    console.log(this.state.cards);
+    // console.log(this.state.cards);
     return (
       <div className="content-container">
         {/* 
